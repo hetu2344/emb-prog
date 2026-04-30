@@ -1,0 +1,10 @@
+- Microcontrollers vs microprocessor
+- Input and output devices are represented as memory space/address in the CPU (throw back to COMP 3430 OS).
+- If a address accepts the data it is output device and if a address writes the data it is input device.
+- This provides a layer of abstraction to make the interaction between I/O devices and memory eazy.
+- Microprocessor (MPU): It is the core controlling unit that provides computational prower to the system. Requires supporting circuit like memory or I/O device
+- Microcontroller (MCU): Integrates CPU, I/O device and memory on a single chip.
+- On chip memory: RAM, ROM, EEPROM (Electrically Eraseable Programmable Read Only Menory, now a days its not used), Falsh (EEPROM is replaced by it)
+- UART, SPI, I2C (communication protocals), Networking (Bluetooth, WiFi).
+- SoC: System of Chip
+- 
